@@ -1,4 +1,4 @@
-# AIMS Drone Project
+# Drone Project
 
 ## Gesture-Controlled Drone Navigation & Safe Landing
 
